@@ -5,9 +5,9 @@
 > so please refer to [it's documentation](https://github.com/facebook/create-react-app/blob/master/packages/react-scripts/template/README.md)
 > for more usage information.
 
-# [_Put your project name here_]
+# [_Reservation Maker]
 
-[_Add a brief description of your project here._]
+[This is a react web-app that allows the user to make flight, hotel, car rental as well as taxi reservations. The app uses a backpack component(the calendar) to allow the user to make the reservations based on the dat the user wishes]
 
 ## npm script commands
 
